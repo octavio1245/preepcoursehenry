@@ -1,2 +1,2 @@
-# preepcoursehenry
-Este es un repositorio de pureba del preep
+este preyecto es una prueba de como crear un repositorio y como clonarlo desde github a mi escritorio local
+
